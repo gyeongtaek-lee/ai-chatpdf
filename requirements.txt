@@ -6,10 +6,10 @@
 streamlit
 langchain-community
 langchain-openai
-langchain-chroma
 langchain
 openai
 pypdf
 chromadb
+chroma
 tiktoken
 pysqlite3-binary
