@@ -4,6 +4,8 @@
 # langchain==0.1.11
 # openai==1.38.0
 streamlit
+langchain-community
+langchain-openai
 langchain
 openai
 pypdf
