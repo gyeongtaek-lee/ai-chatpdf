@@ -6,6 +6,6 @@ openai==1.38.0
 # langchain
 # openai
 pypdf
-chromadb
+chromadb==0.4.17
 tiktoken
 pysqlite3-binary
